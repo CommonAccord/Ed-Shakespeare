@@ -6,15 +6,13 @@ Ti=Report
 
 2.Ti=Student's Work
 
-2.sec=And then {Role.5.Ti}, {Role.5.sec}, said: "{m-}{Play.5.1.13.sec}{-m}"
+2.sec=And then {Play.Role.5.Ti}, {Play.Role.5.sec}, said: "{m-}{Play.5.1.13.sec}{-m}"
 
 =[Bit/Sec_02]
 
 Play.=[Play/Macbeth.md]
 
 Student.=[Student/Tracy_Bell]
-
-Role.=[Play/Macbeth_Roles.md]
 
 m-=<font color="red">
 

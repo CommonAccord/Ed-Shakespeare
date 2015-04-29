@@ -1,9 +1,6 @@
 Ti=Roles
 
 1.Ti=Duncan
-
-1.sec=Duncan – King of Scotland
-
 2.Ti=Malcolm
 3.Ti=Donalbain
 4.Ti=Macbeth
@@ -21,6 +18,7 @@ Ti=Roles
 16.Ti=Three Witches
 
   
+1.sec=King of Scotland
 2.sec={1.Ti}'s elder son
 3.sec={1.Ti}'s younger son
 4.sec=a general in the army of King Duncan; originally Thane of Glamis, then Thane of Cawdor, and later King of Scotland
@@ -28,7 +26,7 @@ Ti=Roles
 6.sec={4.Ti}'s friend and a general in the army of King Duncan
 7.sec=Banquo's son
 8.sec=Thane of Fife
-9.sec=Lady Macduff – Macduff's wife
+9.sec=Lady Macduff - Macduff's wife
 10.sec=Stub
 11.sec=Scottish Thanes
 12.sec=general of the English forces
