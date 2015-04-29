@@ -6,7 +6,7 @@ Ti=Report
 
 2.Ti=Student's Work
 
-2.sec={P-Role.5.Ti}, described by {P-Author.Name.Last} as "{P-Role.5.sec}," apparently felt remorseful.  She said: {"-}{P-5.1.13.sec}{-"}
+2.sec={P-Role.5.Ti}, described by {P-Author.Name.Last} as "{P-Role.5.sec}," apparently felt remorse.  She said: {"-}{P-5.1.13.sec}{-"}
 
 =[Bit/Sec_02]
 
