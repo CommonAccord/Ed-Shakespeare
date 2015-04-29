@@ -1,6 +1,7 @@
-Name.Full={Name.First} {Name.Last}
-
 Name.First=Tracy
 
 Name.Last=Bell
 
+Name.Full={Name.First} {Name.Last}
+
+Model.Root=<u>Fields:</u><ul><li>Name.Full={Name.Full}<li>Name.First={Name.First}<li>Name.Last={Name.Last}
