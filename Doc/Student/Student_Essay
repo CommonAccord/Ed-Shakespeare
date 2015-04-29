@@ -6,14 +6,14 @@ Ti=Report
 
 2.Ti=Student's Work
 
-2.sec=And then {Play.Role.5.Ti}, {Play.Role.5.sec}, said: "{m-}{Play.5.1.13.sec}{-m}"
+2.sec={Role.5.Ti}, described by {Author.Name.Full} as "{Role.5.sec}," apparently felt remorseful.  She said: {"-}{5.1.13.sec}{-"}
 
 =[Bit/Sec_02]
 
-Play.=[Play/Macbeth.md]
+=[Play/Macbeth.md]
 
 Student.=[Student/Tracy_Bell]
 
-m-=<font color="red">
+"-="<font color="red">
 
--m=</font>
+-"=</font>"

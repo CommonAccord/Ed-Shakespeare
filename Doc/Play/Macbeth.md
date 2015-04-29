@@ -20,4 +20,6 @@ Ti=Macbeth
 
 =[Bit/Sec_05]
 
+Author.=[Author.md]
+
 Role.=[Play/Macbeth_Roles.md]
