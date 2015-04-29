@@ -1,0 +1,21 @@
+Ti=Report
+
+1.Ti=Assignment
+
+1.sec=Report by {Student.Name.Full} on {Play.Ti}.  
+
+2.Ti=Student's Work
+
+2.sec=And then {Role.5.Ti}, {Role.5.sec}, said: "{m-}{Play.5.1.13.sec}{-m}"
+
+=[Bit/Sec_02]
+
+Play.=[Play/Macbeth.md]
+
+Student.=[Student/Tracy_Bell]
+
+Role.=[Play/Macbeth_Roles.md]
+
+m-=<font color="red">
+
+-m=</font>
