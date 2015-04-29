@@ -1,7 +1,7 @@
 <?php
 /*require('./vendor/autoload.php'); */
 ini_set("allow_url_include", true);
-/*include("header.php");*/
+include("header.php");
 
 ?>
 
@@ -15,10 +15,10 @@ echo "
 &emsp; &emsp; &emsp; &emsp;  
 <a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
   &emsp;  &emsp;  &emsp;  
-<a href=https://github.com/CommonAccord/NDA/blob/master/Doc/$rootdir[dirname]/$filenameX>View at GitHub</a>
+<a href=https://github.com/CommonAccord/Ed-Shakespeare/blob/master/Doc/$rootdir[dirname]/$filenameX>View at GitHub</a>
 
 &emsp;  &emsp;  &emsp;  
-<a href=https://github.com/CommonAccord/NDA/edit/master/Doc/$rootdir[dirname]/$filenameX>Edit at GitHub</a>
+<a href=https://github.com/CommonAccord/Ed-Shakespeare/edit/master/Doc/$rootdir[dirname]/$filenameX>Edit at GitHub</a>
 
 ";
 
